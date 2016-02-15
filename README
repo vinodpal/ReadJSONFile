@@ -4,7 +4,6 @@ Read File in JSON Format and store in JSON Object
 
 File with name info.txt who one is store as a JSON Format retrieve from file and store in JSONObject Variable
 This file store :-
-        
         {
             "Name": "ComanyList.com",
             "Author": "Arjun",
